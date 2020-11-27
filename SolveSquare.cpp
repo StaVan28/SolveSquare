@@ -62,13 +62,10 @@ int SolveSquare(double a,double b,double c,double* x1,double* x2)
             {                         /**/
             case 1:                   /**/
                 return 1;             /**/
-                break;                /**/
             case 0:                   /**/
                 return 0;             /**/
-                break;                /**/
             case INFINITY:            /**/
                 return INFINITY;      /**/
-                break;                /**/
             }                         /**/
         }
 
